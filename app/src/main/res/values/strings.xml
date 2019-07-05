@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mobile Ava 1</string>
+    <string name="error_different_password">Passwords are not the same</string>
+    <string name="error_unkown">There was an internal error</string>
+    <string name="label_configuration_screen">Setup</string>
+    <string name="login">Login</string>
+    <string name="user">Username</string>
+    <string name="password">Passwod</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="new_pass">New Password</string>
+    <string name="new_user">New Username</string>
+    <string name="configure">Configurate</string>
+    <string name="logout">Logout</string>
+    <string name="error_app_blocked">Blocked Application</string>
+    <string name="error_app_blocked_description">This Application Has Been Permanently Blocked by Too Many Login Attempts</string>
+    <string name="error_wrong_user_and_password">"Username / Password Incorrect "</string>
+    <string name="label_login_screen">Login</string>
+    <string name="label_main_screen">Main</string>
+</resources>

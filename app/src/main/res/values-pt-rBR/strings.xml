@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mobile Ava 1</string>
+    <string name="error_different_password">As senhas não são iguais</string>
+    <string name="error_unkown">Houve um erro interno</string>
+    <string name="label_configuration_screen">Tela de Configuração</string>
+    <string name="login">Entrar</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="confirm_password">Confirmar Senha</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="new_pass">Nova Senha</string>
+    <string name="new_user">Novo Usuário</string>
+    <string name="configure">Configurar</string>
+    <string name="logout">Sair</string>
+    <string name="error_app_blocked">Aplicação Bloqueada</string>
+    <string name="error_app_blocked_description">Essa Aplicação Foi Permanentemente Bloqueada por Excesso de Tentativas de Login</string>
+    <string name="error_wrong_user_and_password">Usuátio/Senha Incorreto</string>
+    <string name="label_login_screen">Tela de Login</string>
+    <string name="label_main_screen">Tela Principal</string>
+</resources>
