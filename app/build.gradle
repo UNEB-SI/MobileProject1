@@ -14,6 +14,17 @@ android {
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
+
+    flavorDimensions "default"
+    productFlavors {
+        kotlin {
+            applicationIdSuffix ".kotlin"
+        }
+        java {
+            applicationIdSuffix ".java"
+        }
+    }
+
     buildTypes {
         release {
             minifyEnabled false
